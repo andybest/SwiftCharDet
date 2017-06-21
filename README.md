@@ -1,3 +1,3 @@
 # SwiftCharDet
 
-A description of this package.
+A pure Swift library for character set detection
